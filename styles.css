@@ -1,0 +1,17 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+.image-container {
+    width: 100%;
+    min-height: 100vh;
+    overflow-y: auto;
+}
+
+.responsive-image {
+    width: 100%;
+    height: auto;
+    display: block;
+}
